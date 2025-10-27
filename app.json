@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "EduCare",
+    "slug": "educare-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#10B981"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#10B981"
+      },
+      "package": "com.thaveesha.educareapp"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6b2bdcfb-5ba0-41d5-a8ff-4248cfef1c60"
+      }
+    }
+  }
+}
